@@ -11,3 +11,5 @@ In this repo you will find the following files:
 ## Tableau Dashboard
 ![Screenshot](state_of_union.png)
 Please take a look at the [dashboard](https://public.tableau.com/profile/stephen.deferrari#!/vizhome/Project4_15979585299720/Dashboard1) I made for this project. It lets you compare and contrast different issues and presidents across U.S. history. 
+
+Thank you for looking through my work, let me know if you have any comments or questions.
