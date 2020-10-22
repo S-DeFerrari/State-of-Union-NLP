@@ -1,4 +1,5 @@
 # state-of-union-NLP
+![header](union_header.png)
 **Using natural language processing and unsupervised learning to dive into and compare State of the Unions from Washington to Trump**
 
 In this repo you will find the following files:
